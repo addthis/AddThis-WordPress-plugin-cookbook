@@ -1,0 +1,20 @@
+## Description
+
+These recipes are example of how to use the filters inside the AddThis WordPress plugin to customize it even further. All Of these are designed to be modified by you and used in conjunction with [The AddThis WordPress plugin]](http://wordpress.org/extend/plugins/addthis).
+
+## Included 'Recipes'
+
+#### Not In One Category
+This plugin will cause AddThis to not be displayed for one category (in this example, category 4). This plugin can be adopted to use any sort of custom rule or rules you want.   
+
+#### Don't Use the AddThis CSS
+
+This plugin demonstrates how you can modify the addthis_config javascript variable to use any of our options.  See [AddThis Client API](http://www.addthis.com/help/client-api) for more info on what you can do with this variable
+
+## Submit Your Own
+
+Fork this repository and submit a pull request if you have a recipe for the AddThis WordPress Plugin that you would like to share.
+
+## Support
+
+If you need support for these or any of the AddThis products, please head on over to [AddThis Forums](http://www.addthis.com/forum)
