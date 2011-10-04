@@ -1,6 +1,6 @@
 ## Description
 
-These recipes are example of how to use the filters inside the AddThis WordPress plugin to customize it even further. All Of these are designed to be modified by you and used in conjunction with [The AddThis WordPress plugin]](http://wordpress.org/extend/plugins/addthis).
+These recipes are example of how to use the filters inside the AddThis WordPress plugin to customize it even further. All Of these are designed to be modified by you and used in conjunction with [The AddThis WordPress plugin](http://wordpress.org/extend/plugins/addthis).
 
 ## Included 'Recipes'
 
