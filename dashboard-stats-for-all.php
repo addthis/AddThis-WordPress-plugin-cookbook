@@ -31,6 +31,4 @@
 
 
 
-add_filter('addthis_show_dashboard', __return_true() ) )
-
-
+add_filter('addthis_show_dashboard', __return_true());
